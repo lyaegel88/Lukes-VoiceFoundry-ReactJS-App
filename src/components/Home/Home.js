@@ -27,42 +27,42 @@ class Home extends Component {
             <section>
                 <h4>Most Recent Caller: {this.state.phoneNumber1.PHONE_NUMBER}</h4>
                 <p>{this.state.phoneNumber1.VANITY_NUM_1}</p>
-                <p>{this.state.phoneNumber1.VANITY_NUM_1}</p>
                 <p>{this.state.phoneNumber1.VANITY_NUM_2}</p>
                 <p>{this.state.phoneNumber1.VANITY_NUM_3}</p>
                 <p>{this.state.phoneNumber1.VANITY_NUM_4}</p>
+                <p>{this.state.phoneNumber1.VANITY_NUM_5}</p>
             </section>
             <section>
                 <h4>Recent Caller: {this.state.phoneNumber2.PHONE_NUMBER}</h4>
                 <p>{this.state.phoneNumber2.VANITY_NUM_1}</p>
-                <p>{this.state.phoneNumber2.VANITY_NUM_1}</p>
                 <p>{this.state.phoneNumber2.VANITY_NUM_2}</p>
                 <p>{this.state.phoneNumber2.VANITY_NUM_3}</p>
                 <p>{this.state.phoneNumber2.VANITY_NUM_4}</p>
+                <p>{this.state.phoneNumber2.VANITY_NUM_5}</p>
             </section>
             <section>
                 <h4>Recent Caller: {this.state.phoneNumber3.PHONE_NUMBER}</h4>
                 <p>{this.state.phoneNumber3.VANITY_NUM_1}</p>
-                <p>{this.state.phoneNumber3.VANITY_NUM_1}</p>
                 <p>{this.state.phoneNumber3.VANITY_NUM_2}</p>
                 <p>{this.state.phoneNumber3.VANITY_NUM_3}</p>
                 <p>{this.state.phoneNumber3.VANITY_NUM_4}</p>
+                <p>{this.state.phoneNumber3.VANITY_NUM_5}</p>
             </section>
             <section>
                 <h4>Recent Caller: {this.state.phoneNumber4.PHONE_NUMBER}</h4>
                 <p>{this.state.phoneNumber4.VANITY_NUM_1}</p>
-                <p>{this.state.phoneNumber4.VANITY_NUM_1}</p>
                 <p>{this.state.phoneNumber4.VANITY_NUM_2}</p>
                 <p>{this.state.phoneNumber4.VANITY_NUM_3}</p>
                 <p>{this.state.phoneNumber4.VANITY_NUM_4}</p>
+                <p>{this.state.phoneNumber4.VANITY_NUM_5}</p>
             </section>
             <section>
                 <h4>Recent Caller: {this.state.phoneNumber5.PHONE_NUMBER}</h4>
                 <p>{this.state.phoneNumber5.VANITY_NUM_1}</p>
-                <p>{this.state.phoneNumber5.VANITY_NUM_1}</p>
                 <p>{this.state.phoneNumber5.VANITY_NUM_2}</p>
                 <p>{this.state.phoneNumber5.VANITY_NUM_3}</p>
                 <p>{this.state.phoneNumber5.VANITY_NUM_4}</p>
+                <p>{this.state.phoneNumber5.VANITY_NUM_5}</p>
             </section>
         </div>
     }
