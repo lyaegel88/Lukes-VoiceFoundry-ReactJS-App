@@ -19,8 +19,6 @@ class Home extends Component {
             this.setState({phoneNumber3: result.data.Items[2] !== undefined ? result.data.Items[2] : {}});
             this.setState({phoneNumber4: result.data.Items[3] !== undefined ? result.data.Items[3] : {}});
             this.setState({phoneNumber5: result.data.Items[4] !== undefined ? result.data.Items[4] : {}});
-
-            console.log(result.data.Items);
         })
     }
 
